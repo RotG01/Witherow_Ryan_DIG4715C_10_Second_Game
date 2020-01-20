@@ -15,6 +15,7 @@ public class GameController : MonoBehaviour
     public Text restartText;
     public Text gameOverText;
     public Text Instructions;
+    public Text controls;
     public int time;
     public int Locks;
     public int jail;
@@ -49,6 +50,7 @@ public class GameController : MonoBehaviour
         restart = false;
         restartText.text = "";
         gameOverText.text = "";
+        controls.text = "Press 'W' to Jump and 'Space' to shoot!";
         WinText.text = "";
         LoseText.text = "";
         Instructions.text = "Shoot both locks before time is up";
