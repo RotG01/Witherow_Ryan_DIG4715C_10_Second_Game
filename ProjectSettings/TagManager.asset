@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lock
+  - Ground
+  - Bullet
+  - Game
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 479303597
+    locked: 0
+  - name: Ground
+    uniqueID: 673395751
+    locked: 0
+  - name: Player
+    uniqueID: 1863786237
+    locked: 0
+  - name: Safe
+    uniqueID: 2384290405
+    locked: 0
+  - name: Locks
+    uniqueID: 2162402901
+    locked: 0
+  - name: Bullet
+    uniqueID: 3886364765
+    locked: 0
+  - name: Jail
+    uniqueID: 1327222875
+    locked: 0
